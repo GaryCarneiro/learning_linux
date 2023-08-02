@@ -10,11 +10,13 @@ https://docs.google.com/presentation/d/12iQDnrxCDVuqIEtOvDN2d4XZM_08dz7mDZxddd8i
 
 Print system information
 
-```$ uname -a
+```
+
+$ uname -a
 
 kernel-name nodename kernel-release kernel-version machine processor hardware-platform operating-system # Fields
 
-Linux myhost.example.org 5.9.16-200.fc33.x86_64 #1 SMP Mon Dec 21 14:08:22 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux # Sample output
+Linux myhost.example.org 5.9.16-200.fc33.x86_64 #1 SMP Mon Dec 21 14:08:22 UTC 2020 x86_64 x86_64 x86_64 GNU Linux # Sample output
 ```
 
 List drivers used by Kernel
