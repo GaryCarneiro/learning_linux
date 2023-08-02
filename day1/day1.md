@@ -37,8 +37,17 @@ List CPU
 
 ```
 $ lscpu
+$ cat /proc/cpuinfo
+
 ```
 
+Memory Information
+
+```
+$ free -m # MB Notation
+$ free -g # GB Notation
+$ cat /proc/meminfo
+```
 
 List Disks
 ```
@@ -49,7 +58,6 @@ Show summary information of hardware
 $ inxi -Fxz  
 $ hwinfo --short 
 $ lshw -short
-
-```
 $ lspci -vvv
+```
 
