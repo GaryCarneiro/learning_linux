@@ -15,8 +15,10 @@ Linux myhost.example.org 5.9.16-200.fc33.x86_64 #1 SMP Mon Dec 21 14:08:22 UTC 2
 ```
 
 List drivers used by Kernel
+```
 $ lsmod
 
+```
 
 Info on Drivers
 ```
