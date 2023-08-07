@@ -1,5 +1,5 @@
 ## Agenda
-Day 1 - Unix History, Unix Clone Wars, Hardware, Assembly
+Day 2 - Making Sense of Commands and Help System
 
 ## Slides
 
